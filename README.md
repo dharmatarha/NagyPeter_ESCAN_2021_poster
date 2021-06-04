@@ -13,8 +13,12 @@ Colclough, G. L., Woolrich, M. W., Tewarie, P. K., Brookes, M. J., Quinn, A. J.,
 
 Coquelet, N., De Tiège, X., Destoky, F., Roshchupkina, L., Bourguignon, M., Goldman, S., ... & Wens, V. (2020). Comparing MEG and high-density EEG for intrinsic functional connectivity mapping. NeuroImage, 210, 116556.
 
+Koutra, D., Vogelstein, J. T., & Faloutsos, C. (2013, May). Deltacon: A principled massive-graph similarity function. In Proceedings of the 2013 SIAM International Conference on Data Mining (pp. 162-170). Society for Industrial and Applied Mathematics.
+
 Mormann, F., Lehnertz, K., David, P., & Elger, C. E. (2000). Mean phase coherence as a measure for phase synchronization and its application to the EEG of epilepsy patients. Physica D: Nonlinear Phenomena, 144(3-4), 358-369.
 
 Mucha, P. J., Richardson, T., Macon, K., Porter, M. A., & Onnela, J. P. (2010). Community structure in time-dependent, multiscale, and multiplex networks. science, 328(5980), 876-878.
 
 Palva, S., & Palva, J. M. (2012). Discovering oscillatory interaction networks with M/EEG: challenges and breakthroughs. Trends in cognitive sciences, 16(4), 219-230.
+
+Traud, A. L., Kelsic, E. D., Mucha, P. J., & Porter, M. A. (2011). Comparing community structure to characteristics in online collegiate social networks. SIAM review, 526-543.
